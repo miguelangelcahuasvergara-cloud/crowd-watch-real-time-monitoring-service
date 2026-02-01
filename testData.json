@@ -1,0 +1,10 @@
+{
+    "busCode": "B0001",
+    "routeCode": "R0001",
+    "location": {
+        "latitude": "-13.000",
+        "longitude": "145.67"
+    },
+    "currentOccupancy": 30,
+    "capacityInteger": 0
+}
